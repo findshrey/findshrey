@@ -1,12 +1,12 @@
 ```js
 
 const readMePlease = {
-  greetings: "stranger 👋",
+  greetings: "Stranger 👋",
   iAm: "Shrey Sharma",
-  usually: "building things",
-  in: "Javascript, Front-end",
-  currently: "neck deep in React",
-  findMeOn: [{ email: "findshrey@outlook.com" }, { discord: "Exodion#1842" }],
+  usually: "Building things",
+  in: "JavaScript, Front-end",
+  currently: "Neck deep in React",
+  findMeOn: [{ email: "findshrey@outlook.com" }, { linkedIn: "linkedin.com/in/findshrey" }],
 }
 
 ```
